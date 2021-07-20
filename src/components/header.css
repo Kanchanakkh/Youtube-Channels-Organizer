@@ -1,0 +1,4 @@
+.navbar.navbar-color{
+    background-image: linear-gradient(to right, #2187e5, #0093e9, #009eeb, #00a9eb, #12b3eb);
+    box-shadow: 5px 5px 5px 1px #ccc;
+}
